@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="CategoryStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/list_item_height</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+    <style name="numberT" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#36e78b</item>
+        <item name="colorPrimaryDark">#029c4c</item>
+    </style>
+    <style name="colorsT" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#fdfa16</item>
+        <item name="colorPrimaryDark">#d6d300</item>
+    </style>
+    <style name="phrasesT" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#0fcce1</item>
+        <item name="colorPrimaryDark">#0098a9</item>
+    </style>
+    <style name="familyT" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#ed6707</item>
+        <item name="colorPrimaryDark">#be5102</item>
+    </style>
+</resources>

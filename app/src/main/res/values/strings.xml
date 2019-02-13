@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">translation</string>
+    <string name="category_numbers">NUMBERS</string>
+    <string name="category_colors">COLORS</string>
+    <string name="category_phrases">PHRASES</string>
+    <string name="category_family">FAMILY</string>
+</resources>
+
